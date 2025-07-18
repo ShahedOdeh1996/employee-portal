@@ -1,0 +1,17 @@
+{
+  "Configuration": {
+    "DatabaseName": "default",
+    "DatabasePassword": "",
+    "DatabaseType": "HSQLDB",
+    "DatabaseHost": "",
+    "DatabaseUserName": "",
+    "DatabaseUseIntegratedSecurity": "False",
+    "ApplicationRootUrl": "http://localhost:8089/",
+    "ScheduledEventExecution": "None"
+  },
+  "Constants": {
+    "Integration.API_Key": "640769942ce77875d1d5bc17750fa4e1",
+    "Atlas_UI_Resources.Atlas_UI_Resources_Version": " 2.4.0"
+  },
+  "AdminPassword": "123"
+}

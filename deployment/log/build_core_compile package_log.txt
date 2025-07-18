@@ -1,0 +1,12 @@
+Buildfile: C:\Users\shahed.odeh\Desktop\EmployeePortal-main\deployment\build_core.xml
+
+compile:
+    [javac] Compiling 3 source files to C:\Users\shahed.odeh\Desktop\EmployeePortal-main\deployment\run\bin
+
+package:
+      [jar] Building jar: C:\Users\shahed.odeh\Desktop\EmployeePortal-main\deployment\model\bundles\project.jar
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+
+
